@@ -1,3 +1,3 @@
 # Tip-Calculator
 
-Simple tip calculator
+Simple tip calculator (#26)
